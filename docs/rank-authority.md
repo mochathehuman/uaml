@@ -26,3 +26,22 @@ rank powers of Enlisted and Non-Commissioned Staff.
 - Final authority. May override or amend anything.
 - HQ may enact the power of Judicial Review, which can change Military Law and override JAGC issuances.
 - HQ may issue excommunication/blacklist orders
+
+### Rank Privileges Matrix
+
+| Authority / Action              | Enlisted (E1–E4) | NCO (E5–E7) | Officer (O1–O3) | High Command (O4–O6) | Provost Corps | Headquarters |
+|--------------------------------|------------------|-------------|-----------------|----------------------|---------------|--------------|
+| Enforce Tier I Offenses        | ❌               | ✅          | ✅              | ✅                   | ✅            | ✅           |
+| Enforce Tier II Offenses       | ❌               | ❌          | ✅              | ✅                   | ✅            | ✅           |
+| Enforce Tier III Offenses      | ❌               | ❌          | ❌              | 🔶 (Review Only)     | 🔶 (Investigate) | ✅         |
+| Host Trainings                 | ❌               | ✅          | ✅              | ✅                   | ❌            | ❌           |
+| Recommend Promotions           | ❌               | ✅          | ✅              | ✅                   | ❌            | ❌           |
+| Promote/Demote Members         | ❌               | ❌          | ✅              | ✅                   | ❌            | ✅           |
+| Take Emergency Action          | ❌               | ❌          | ✅              | ✅                   | ✅            | ✅           |
+| Chair Tribunal / Issue NJP     | ❌               | ❌          | ❌              | ❌                   | ✅            | ✅           |
+| Overrule Regimental Procedure  | ❌               | ❌          | ❌              | 🔶 (Recommend)       | ✅ (PC HC)    | ✅           |
+| Issue Legal Interpretations    | ❌               | ❌          | ❌              | ❌                   | ❌            | ✅ / JAGC     |
+| Amend Military Law             | ❌               | ❌          | ❌              | ❌                   | ❌            | ✅           |
+| Override JAGC Rulings          | ❌               | ❌          | ❌              | ❌                   | ❌            | ✅           |
+
+✅ = Yes ❌ = No 🔶 = Conditional / Limited

@@ -2,8 +2,13 @@ site_name: United Army Military Law
 theme:
   name: readthedocs
   logo: images/logo.png
+  features:
+      - navigation.expand
+      - navigation.sections
+      - navigation.tabs
+      - content.full-width
   extra:
-    logo_text: "United Army"
+      logo_text: "United Army"
 nav:
   - Home: index.md
   - General Provisions: general-provisions.md
@@ -17,5 +22,14 @@ nav:
 extra_css:
   - stylesheets/logo.css
   - stylesheets/hide-footer.css
+  - stylesheets/wide-table.css
+  - stylesheets/wide-layout.css
 extra:
   generator: false
+plugins:
+  - search
+  - mermaid2
+markdown_extensions:
+  - admonition
+  - toc
+  #- pymdownx.superfences
