@@ -26,10 +26,10 @@ extra_css:
   - stylesheets/wide-layout.css
 extra:
   generator: false
+  include_cname: true
 plugins:
   - search
   - mermaid2
 markdown_extensions:
   - admonition
   - toc
-  #- pymdownx.superfences
