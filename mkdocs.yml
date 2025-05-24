@@ -1,0 +1,20 @@
+site_name: United Army Military Law
+theme:
+  name: readthedocs
+  logo: images/logo.png
+  extra:
+    logo_text: "United Army"
+nav:
+  - Home: index.md
+  - General Provisions: general-provisions.md
+  - Crimes and Offenses: crimes-and-offenses.md
+  - Sentencing & Enforcement: sentencing-enforcement.md
+  - Rank Authority: rank-authority.md
+  - Rights of Members: rights.md
+  - Command & Reporting: command-reporting.md
+  - JAGC & Appendecies: jagc.md
+extra_css:
+  - stylesheets/logo.css
+  - stylesheets/hide-footer.css
+extra:
+  generator: false
