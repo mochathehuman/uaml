@@ -13,6 +13,7 @@ nav:
   - Rights of Members: rights.md
   - Command & Reporting: command-reporting.md
   - JAGC & Appendecies: jagc.md
+  - Links: links.md
 extra_css:
   - stylesheets/logo.css
   - stylesheets/hide-footer.css
