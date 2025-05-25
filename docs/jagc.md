@@ -11,7 +11,7 @@ Suspend, overturn, and issue binding decisions.
 
 ---
 
-# Appendix: Admin Abuse Interpretation
+# §7.A-1. Appendix: Admin Abuse Interpretation
 
 Issued: May 22, 2025
 
@@ -32,7 +32,7 @@ Admin Abuse does **not** include:
 
 ---
 
-# Appendix: JAGC Role and Jurisdiction
+# §7.A-2. Appendix: JAGC Role and Jurisdiction
 
 Effective immediately:
 
@@ -51,7 +51,7 @@ Commissioned Officers hold elevated authority, including the power to enforce la
 
 This clarification is issued to preserve the impartial enforcement of Military Law and the integrity of our command structure.
 
-## SUBAPPENDIX A
+## §7.A-2.a. SUBAPPENDIX A
 
 In response to concerns regarding the recent policy clarification assigning Commissioned+ crimes to JAGC oversight, let us be unequivocally clear:
 
@@ -71,7 +71,7 @@ The JAGC handles **who** is judged when the accused holds command powers. The PC
 
 This is not a replacement. It is a *reinforcement* of procedural fairness and structural clarity.
 
-## SUBAPPENDIX B
+## §7.A-2.b. SUBAPPENDIX B
 
 **Clarification:** Tier III crimes should also be reported to JAGC. However, these cases will only be investigated by JAGC. JAGC will investigate and determine if a crime was actually committed and provide a recommendation for punishment to HQ if it is deemed to be a crime. However, ultimately HQ must carry out punishment for tier III crimes, as JAGC is not authorized to assert the punishment.
 
