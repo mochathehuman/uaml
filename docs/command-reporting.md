@@ -12,15 +12,17 @@ graph TD
     A1[Judicial Review]
     B[Provost Corps]
     B1[Enforcement]
+    C[Commanding General]
     G[JAGC]
     G1[Interpretation]
     G2[Appeals]
     G3[Investigations]
 
+    C-->A
     A-->B
     A-.->A1
     B-->B1
-    A-->G
+    C-->G
     G-->G1
     G-->G2
     G-->G3
