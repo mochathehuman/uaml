@@ -25,6 +25,7 @@ jobs:
                   "description": "The latest changes have been deployed to https://law.krownca.com",
                   "url": "https://law.krownca.com",
                   "color": 3066993,
+                  "content": "**Overview**\n\nChanges to Command & Reporting page regarding command structure",
                   "footer": {
                     "text": "law.krownca.com Deployment Handler"
                   }
