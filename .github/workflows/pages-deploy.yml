@@ -24,18 +24,6 @@ jobs:
                   "title": "Details",
                   "description": "The latest changes have been deployed to GitHub Pages.",
                   "color": 3066993,
-                  "fields": [
-                    {
-                      "name": "Repository",
-                      "value": "${{ github.repository }}",
-                      "inline": true
-                    },
-                    {
-                      "name": "Branch",
-                      "value": "${{ github.ref }}",
-                      "inline": true
-                    }
-                  ],
                   "footer": {
                     "text": "GitHub Actions"
                   }
