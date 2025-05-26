@@ -26,7 +26,7 @@ jobs:
                   "url": "https://law.krownca.com",
                   "color": 3066993,
                   "footer": {
-                    "text": "GitHub Actions"
+                    "text": "law.krownca.com Deployment Handler"
                   }
                 }
               ]
