@@ -22,7 +22,8 @@ jobs:
               "embeds": [
                 {
                   "title": "Details",
-                  "description": "The latest changes have been deployed to GitHub Pages.",
+                  "description": "The latest changes have been deployed to https://law.krownca.com",
+                  "url": "https://law.krownca.com",
                   "color": 3066993,
                   "footer": {
                     "text": "GitHub Actions"
