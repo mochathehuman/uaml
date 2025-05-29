@@ -20,6 +20,8 @@ Moderate breaches of law impairing group trust or operations:
 
 - **Indecency**: NSFW or offensive content.
 
+- **Abandonment of Duties**: Failure to perform assigned duties without proper reason or documentation.
+
 ## §2.3 Tier III – Major Violations
 Severe misconduct with intent to harm or destabilize:
 

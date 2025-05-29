@@ -28,7 +28,7 @@ jobs:
                   "fields": [
                     {
                       "name": "Overview",
-                      "value": "Changes to Command & Reporting page regarding command structure"
+                      "value": "Added Tier II crime of Abandonment of Duties, as well as the following sections:\n\n- Conflict of Interest & Recusal\n- Admin Commands\n- Leave of Absence\n- Pardons & Amnesty Policy\n\nSee these changes at [law.krownca.com](https://law.krownca.com).",
                     }
                   ],
                   "footer": {
