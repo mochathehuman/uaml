@@ -18,6 +18,10 @@ nav:
   - Rights of Members: rights.md
   - Command & Reporting: command-reporting.md
   - JAGC & Appendecies: jagc.md
+  - Pardons & Amnesty Policy: pardons-amnesty.md
+  - Conflict of Interest & Recusal: coi-recusal.md
+  - Admin Commands: admin.md
+  - Leave of Absence: leave-of-absence.md
   - Links: links.md
 extra_css:
   - stylesheets/logo.css
