@@ -17,8 +17,8 @@ The following uses are strictly prohibited and may constitute **Admin Abuse (Tie
 - Using **:kick**, **:ban**, or **:crash** without proper justification  
 - Spawning items, tools, or transports not related to official activities  
 - Issuing punitive commands (e.g., **:jail**, **:blind**) as a joke or without authority  
-- Modifying your own rank, admin level, or immunity
-- Also, **NEVER** use **:m**, there is essentially no use for it. Use **:h** for minor messages and **:n** for server-wide announcements. **:m** is HiCOM+.
+- Modifying your own rank, admin level, or immunity  
+- Also, **NEVER** use **:m**, there is essentially no use for it. Use **:h** for minor messages and **:n** for server-wide announcements. **:m** is HiCOM+.  
 - Usage of **:tempmod** or other commands by anyone other than HQ is __strictly__ prohibited. Permissions are set by HQ and bypassing these permissions is absolutely not allowed for any reason, especially during official events.
 
 ## 10.4 Event-Specific Permissions  
