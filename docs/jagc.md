@@ -77,3 +77,14 @@ This is not a replacement. It is a *reinforcement* of procedural fairness and st
 
 — Issued by the Office of the Judge Advocate General
 Dated: 24 May 2025
+
+---
+
+# §7.A-3. Appendix: PC HiCOM Jurisdictional Authority for Routine Officer Infractions
+
+While the Judge Advocate General's Corps retains oversight and adjudicative authority for all Tier III and complex legal cases involving Commissioned Officers, this section affirms that:
+
+* **Provost Corps HiCOM** may **directly administer punishment** for **Tier I and Tier II violations** committed by Commissioned Officers.
+* This amendment grants PC HiCOM operational autonomy in routine enforcement matters **without displacing** JAGC's legal oversight.
+* All such disciplinary actions must be transparently logged and subject to appeal review by JAGC.
+* JAGC retains authority to audit, overrule, or amend any decision found to conflict with legal standards or procedural fairness.
